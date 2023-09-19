@@ -35,8 +35,6 @@ switch (time) {
     case "13":
     case "14":
     case "15":
-        alert(time + " часов дня");
-        break;
     case "16":
     case "17":
         alert(time + " часов дня");
